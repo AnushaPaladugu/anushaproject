@@ -1,0 +1,220 @@
+*{
+    
+    margin: 0;
+    font-family: 'Gloria Hallelujah';
+    padding: 0;
+  }
+
+body{
+  background-color: #6246c7;
+}
+
+  /* buy now */
+.h1_buy{
+position: absolute;
+width: 280px;
+height: 55px;
+left: 750px;
+/* top: 40px; */
+
+font-family: 'Gloria Hallelujah';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 127px;
+text-align: center;
+text-transform: uppercase;
+color: #f8f1f1;
+}
+.a1{
+  display: flex;
+flex-direction: row;
+align-items: center;
+justify-content: space-between;
+}
+
+.div1 {
+box-sizing: border-box;
+position: absolute;
+width: 553px;
+height: 633px;
+left: 200px;
+top: 200px;
+background: #FFFFFF;
+border: 2px solid #262221;
+box-shadow: 5px 5px 0px #262221;
+border-radius: 3px;
+
+}
+
+#cat1 {
+  width: 140px;
+height: 33px;
+color: #262221;
+margin-left: 40px;
+margin-top:20px;
+font-size: 20px;
+}
+
+#img1{
+  border: 1px solid #0f0e0e;
+  border-radius: 50%;
+  align-content: center;
+  margin-top:11px;
+  height: 30px;
+}
+
+.div3 {
+  
+  box-sizing: border-box;
+  margin-top:20px;
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+  border-radius: 100px;
+  width: 75px;
+  height: 30px;
+  gap: 7px;
+
+}
+.div4{
+  box-sizing: border-box;
+  
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  border-radius: 100px;
+  width: 75px;
+  height: 30px;
+  gap: 4px;
+  border: 1px solid #0f0e0e;
+}
+
+
+#bt1{
+  border-radius: 100px;
+  width: 129px;
+height: 32px;
+  background-color:  #0f0e0e;
+  color: #FFFFFF;
+}
+.a2{
+  
+box-sizing: border-box;
+position: absolute;
+width: 525px;
+height: 112px;
+left: 10px;
+top: 100px;
+
+background: #FFFFFF;
+
+border: 2px solid #262221;
+
+border-radius: 1px;
+
+}
+.div5 , .div7 ,.div8, .div10{
+  gap: 10px;
+  display: flex;
+  flex-direction: row;
+}
+.drop1{
+  width: 30px;
+height: 30px;
+}
+.div6 , .div9{
+  display: flex;
+  justify-content: end;
+}
+.a3{
+  
+  box-sizing: border-box;
+  position: absolute;
+  width: 525px;
+  height: 112px;
+  left: 10px;
+  top: 300px;
+  background: #FFFFFF;
+  border: 2px solid #262221;
+  border-radius: 1px;
+  }
+
+
+
+.drop2{
+  width: 30px;
+  height: 30px;
+  
+background: #0f0e0e;
+
+border: 2px solid #262221;
+border-radius: 50%;
+}
+
+.arrow{
+  display: flex;
+  justify-content: center;
+  margin-top: 180px;
+  margin-left: 225px;
+  background-color: #9b9494;
+  width:64px;
+  height:64px;
+  border-radius: 50%;
+  /* text-align: center; */
+  
+}
+
+#arr1{
+  width:32px;
+ height:32px;
+ /* align-items: center; */
+ display: flex;
+ margin-top: 10px;
+  
+}
+
+/* Rectangle 80 */
+.btn2{
+position: absolute;
+font-size: medium;
+width: 525px;
+height: 50px;
+left: 10px;
+  top: 450px;
+  background: #0f0e0e;
+  display: flex;
+  justify-content: center;
+  background-color:  #0f0e0e;
+  color: #FFFFFF;
+
+}
+
+
+
+.catdog{
+  /* CATDOG 10 */
+
+position: absolute;
+width: 484px;
+height: 379px;
+left: 850px;
+top: 418px;
+
+
+}
+
+
+/* Frame 14 */
+
+
+/* Frame 8 */
+
+
+
+
+
+ 
+
